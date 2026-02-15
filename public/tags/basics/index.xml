@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Five Year Old</title>
+    <link>http://localhost:1313/tags/basics/</link>
+    <description>Recent content in Basics on Five Year Old</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Do Computers Work?</title>
+      <link>http://localhost:1313/posts/how-computers/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-computers/</guid>
+      <description>&lt;p&gt;Computers feel like magic… but they’re actually &lt;strong&gt;super fast rule-followers&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A computer doesn’t “think” like a human.&lt;br&gt;&#xA;It follows instructions &lt;strong&gt;very, very fast&lt;/strong&gt; — using electricity and tiny switches.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-computers-speak-one-simple-language-1s-and-0s&#34;&gt;1) Computers speak ONE simple language: &lt;strong&gt;1s and 0s&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Inside a computer, everything becomes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1 = ON&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;0 = OFF&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;That’s it.&lt;/p&gt;&#xA;&lt;p&gt;Games, YouTube, homework, Roblox, Minecraft — it all becomes huge patterns of &lt;strong&gt;1s and 0s&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;flow.jpg&#34;&#xA;    alt=&#34;Simple diagram showing input -&amp;gt; CPU -&amp;gt; memory -&amp;gt; output&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A computer is basically: Input → Processing → Memory/Storage → Output.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

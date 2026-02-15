@@ -1,0 +1,11 @@
+name = "cleanlite"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A clean, minimal Hugo theme with tags and grouping."
+homepage = ""
+tags = ["blog", "clean", "minimal"]
+features = ["tags", "categories", "series"]
+min_version = "0.120.0"
+
+[author]
+  name = "You"

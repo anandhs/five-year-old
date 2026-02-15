@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Five Year Old</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Five Year Old</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to your new blog.&lt;/p&gt;&#xA;&lt;p&gt;This post is written in &lt;strong&gt;Markdown&lt;/strong&gt;, and it includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt; (for labeling)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Categories&lt;/strong&gt; (for grouping)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Series&lt;/strong&gt; (for grouping a set of related posts)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My Favorite Reliability Signals</title>
+      <link>http://localhost:1313/posts/observability/my-favorite-signals/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/observability/my-favorite-signals/</guid>
+      <description>&lt;p&gt;A simple way to think about reliability signals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt;: how fast?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic&lt;/strong&gt;: how much?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: how broken?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Saturation&lt;/strong&gt;: how full?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>What Is Calculus? (Explained Like You’re 5)</title>
+      <link>http://localhost:1313/posts/calculus/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/calculus/</guid>
+      <description>&lt;p&gt;If you hear the word &lt;strong&gt;calculus&lt;/strong&gt;, it probably sounds big. Complicated. Slightly terrifying.&lt;/p&gt;&#xA;&lt;p&gt;Relax.&lt;/p&gt;&#xA;&lt;p&gt;At its heart, calculus is just the math of &lt;strong&gt;change&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And if you’re five years old, you already understand change better than you think.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-world-is-always-changing&#34;&gt;The World Is Always Changing&lt;/h2&gt;&#xA;&lt;p&gt;Think about your day:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A balloon gets bigger when you blow into it 🎈&lt;/li&gt;&#xA;&lt;li&gt;You ride your bike faster and faster 🚲&lt;/li&gt;&#xA;&lt;li&gt;Rain fills up a bucket drop by drop 🌧️&lt;/li&gt;&#xA;&lt;li&gt;You grow taller every year&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nothing stays still.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is Genetics?</title>
+      <link>http://localhost:1313/posts/genetics/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/genetics/</guid>
+      <description>&lt;h1 id=&#34;-what-is-genetics-explained-simply&#34;&gt;🧬 What Is Genetics? (Explained Simply)&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever looked at your family and thought…&lt;/p&gt;&#xA;&lt;p&gt;“Why do I look like my dad?”&lt;br&gt;&#xA;“Why does my sister have curly hair but I don’t?”&lt;br&gt;&#xA;“Why are my eyes brown?”&lt;/p&gt;&#xA;&lt;p&gt;The answer to all of those questions lives inside something tiny — something so small you can’t see it.&lt;/p&gt;&#xA;&lt;p&gt;It’s called &lt;strong&gt;DNA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And the study of DNA and how traits are passed down from parents to children is called &lt;strong&gt;genetics&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

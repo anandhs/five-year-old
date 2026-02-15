@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sre on Five Year Old</title>
+    <link>http://localhost:1313/tags/sre/</link>
+    <description>Recent content in Sre on Five Year Old</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Favorite Reliability Signals</title>
+      <link>http://localhost:1313/posts/observability/my-favorite-signals/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/observability/my-favorite-signals/</guid>
+      <description>&lt;p&gt;A simple way to think about reliability signals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt;: how fast?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic&lt;/strong&gt;: how much?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: how broken?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Saturation&lt;/strong&gt;: how full?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

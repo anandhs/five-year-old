@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Five Year Old</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Five Year Old</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to your new blog.&lt;/p&gt;&#xA;&lt;p&gt;This post is written in &lt;strong&gt;Markdown&lt;/strong&gt;, and it includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt; (for labeling)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Categories&lt;/strong&gt; (for grouping)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Series&lt;/strong&gt; (for grouping a set of related posts)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How Do Computers Work?</title>
+      <link>http://localhost:1313/posts/how-computers/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-computers/</guid>
+      <description>&lt;p&gt;Computers feel like magic… but they’re actually &lt;strong&gt;super fast rule-followers&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A computer doesn’t “think” like a human.&lt;br&gt;&#xA;It follows instructions &lt;strong&gt;very, very fast&lt;/strong&gt; — using electricity and tiny switches.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-computers-speak-one-simple-language-1s-and-0s&#34;&gt;1) Computers speak ONE simple language: &lt;strong&gt;1s and 0s&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Inside a computer, everything becomes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1 = ON&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;0 = OFF&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;That’s it.&lt;/p&gt;&#xA;&lt;p&gt;Games, YouTube, homework, Roblox, Minecraft — it all becomes huge patterns of &lt;strong&gt;1s and 0s&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;flow.jpg&#34;&#xA;    alt=&#34;Simple diagram showing input -&amp;gt; CPU -&amp;gt; memory -&amp;gt; output&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A computer is basically: Input → Processing → Memory/Storage → Output.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Favorite Reliability Signals</title>
+      <link>http://localhost:1313/posts/observability/my-favorite-signals/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/observability/my-favorite-signals/</guid>
+      <description>&lt;p&gt;A simple way to think about reliability signals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt;: how fast?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic&lt;/strong&gt;: how much?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: how broken?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Saturation&lt;/strong&gt;: how full?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>What Is Calculus? (Explained Like You’re 5)</title>
+      <link>http://localhost:1313/posts/calculus/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/calculus/</guid>
+      <description>&lt;p&gt;If you hear the word &lt;strong&gt;calculus&lt;/strong&gt;, it probably sounds big. Complicated. Slightly terrifying.&lt;/p&gt;&#xA;&lt;p&gt;Relax.&lt;/p&gt;&#xA;&lt;p&gt;At its heart, calculus is just the math of &lt;strong&gt;change&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And if you’re five years old, you already understand change better than you think.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-world-is-always-changing&#34;&gt;The World Is Always Changing&lt;/h2&gt;&#xA;&lt;p&gt;Think about your day:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A balloon gets bigger when you blow into it 🎈&lt;/li&gt;&#xA;&lt;li&gt;You ride your bike faster and faster 🚲&lt;/li&gt;&#xA;&lt;li&gt;Rain fills up a bucket drop by drop 🌧️&lt;/li&gt;&#xA;&lt;li&gt;You grow taller every year&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nothing stays still.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is Genetics?</title>
+      <link>http://localhost:1313/posts/genetics/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/genetics/</guid>
+      <description>&lt;h1 id=&#34;-what-is-genetics-explained-simply&#34;&gt;🧬 What Is Genetics? (Explained Simply)&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever looked at your family and thought…&lt;/p&gt;&#xA;&lt;p&gt;“Why do I look like my dad?”&lt;br&gt;&#xA;“Why does my sister have curly hair but I don’t?”&lt;br&gt;&#xA;“Why are my eyes brown?”&lt;/p&gt;&#xA;&lt;p&gt;The answer to all of those questions lives inside something tiny — something so small you can’t see it.&lt;/p&gt;&#xA;&lt;p&gt;It’s called &lt;strong&gt;DNA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And the study of DNA and how traits are passed down from parents to children is called &lt;strong&gt;genetics&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topics</title>
+      <link>http://localhost:1313/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/</guid>
+      <description>&lt;h2 id=&#34;categories&#34;&gt;Categories&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/categories/engineering/&#34;&gt;Engineering&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/categories/notes/&#34;&gt;Notes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;popular-tags&#34;&gt;Popular tags&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/observability/&#34;&gt;Observability&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/sre/&#34;&gt;SRE&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/tags/getting-started/&#34;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+</header>
+
+<ul class="post-cards">
+  {{ range .Paginator.Pages }}
+  <li class="post-card">
+    <a class="post-card-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Date.Format "Jan 2, 2006" }}</div>
+    {{ with .Summary }}<p class="excerpt">{{ . | plainify }}</p>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

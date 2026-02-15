@@ -1,0 +1,21 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Five Year Old"
+theme = "cleanlite"
+[pagination]
+  pagerSize = 10
+
+
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  description = "A clean markdown blog with tags, categories, and series."

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+</header>
+
+<ul class="post-cards">
+  {{ range .Paginator.Pages }}
+  <li class="post-card">
+    <a class="post-card-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Date.Format "Jan 2, 2006" }}</div>
+    {{ with .Summary }}<p class="excerpt">{{ . | plainify }}</p>{{ end }}
+    <div class="chips">
+      {{ range .Params.categories }}<a class="chip" href="{{ (printf "/categories/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
+      {{ range first 4 .Params.tags }}<a class="chip" href="{{ (printf "/tags/%s/" (urlize .)) | relURL }}">#{{ . }}</a>{{ end }}
+    </div>
+  </li>
+  {{ end }}
+</ul>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}
