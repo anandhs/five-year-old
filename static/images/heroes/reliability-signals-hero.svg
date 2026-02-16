@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Reliability signals cover</title>
+  <desc id="desc">Monitoring metrics themed cover image.</desc>
+  <rect width="1600" height="700" fill="#2d1420"/>
+  <polyline points="120,500 340,420 560,460 780,300 1000,340 1220,220 1460,260" fill="none" stroke="#ff95b7" stroke-width="10"/>
+  <polyline points="120,560 340,540 560,520 780,500 1000,480 1220,420 1460,380" fill="none" stroke="#ffd3e1" stroke-width="6" opacity="0.8"/>
+  <text x="130" y="220" fill="#ffe4ef" font-size="70" font-family="Verdana, Arial, sans-serif" font-weight="700">Reliability Signals</text>
+  <text x="130" y="290" fill="#ffb8d1" font-size="34" font-family="Verdana, Arial, sans-serif">Latency, Traffic, Errors, Saturation</text>
+</svg>

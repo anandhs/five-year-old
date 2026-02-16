@@ -5,6 +5,7 @@ description: "A clear introduction to calculus as the math of change and accumul
 tags: ["math", "calculus", "basics"]
 categories: ["Education"]
 draft: false
+image: "/images/heroes/calculus-hero.svg"
 ---
 
 ## What it is

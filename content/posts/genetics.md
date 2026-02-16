@@ -5,6 +5,7 @@ description: "A clear explanation of genetics, DNA, genes, inheritance, and the 
 tags: ["biology", "genetics", "science", "basics"]
 categories: ["Science"]
 draft: false
+image: "/images/heroes/genetics-hero.svg"
 ---
 
 ## What it is

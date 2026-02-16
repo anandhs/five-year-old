@@ -5,6 +5,7 @@ description: "A clear explanation of how computers process information using bin
 tags: ["computers", "basics", "technology"]
 categories: ["Learn"]
 draft: false
+image: "/images/heroes/how-computers-hero.svg"
 ---
 
 ## What it is
@@ -36,11 +37,11 @@ At a high level:
 
 Inside hardware, transistors switch on and off to perform logic and arithmetic operations.
 
-{{< figure src="flow.jpg" alt="Simple diagram showing input -> CPU -> memory -> output" caption="A computer system can be viewed as Input -> Processing -> Memory/Storage -> Output." >}}
+{{< figure src="flow.svg" alt="Simple diagram showing input -> CPU -> memory -> output" caption="A computer system can be viewed as Input -> Processing -> Memory/Storage -> Output." >}}
 
-{{< figure src="cpu.jpg" alt="Close-up photo of a CPU or a motherboard with CPU" caption="The CPU executes instructions and coordinates core operations." >}}
+{{< figure src="cpu.svg" alt="Close-up photo of a CPU or a motherboard with CPU" caption="The CPU executes instructions and coordinates core operations." >}}
 
-{{< figure src="transistors.jpg" alt="Microchip close-up representing transistors" caption="Transistors are microscopic switches that make digital computation possible." >}}
+{{< figure src="transistors.svg" alt="Microchip close-up representing transistors" caption="Transistors are microscopic switches that make digital computation possible." >}}
 
 ## More details (and references)
 

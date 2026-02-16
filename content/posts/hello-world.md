@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2026-02-13
 draft: false
+image: "/images/heroes/hello-world-hero.svg"
 tags: ["getting-started", "hugo"]
 categories: ["notes"]
 series: ["start-here"]

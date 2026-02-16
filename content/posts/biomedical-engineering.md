@@ -5,6 +5,7 @@ description: "A clear introduction to biomedical engineering: what it is, why it
 tags: ["biomedical-engineering", "engineering", "healthcare", "basics"]
 categories: ["engineering"]
 draft: false
+image: "/images/heroes/biomedical-engineering-hero.svg"
 ---
 
 ## What it is

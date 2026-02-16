@@ -20,6 +20,15 @@ For every new blog post under `content/posts/`, use this structure in this exact
 - Include 2 to 3 high-quality references in the final section.
 - Prefer primary or official sources where possible.
 
+## Image Requirement
+
+- Every post must include a top cover image using front matter:
+  - `image: "/images/heroes/<post-slug>-hero.svg"` (or another valid path)
+- If a specific image is not available, use the default:
+  - `image: "/images/heroes/default-hero.svg"`
+- If a concept benefits from visual explanation, create a simple local diagram (SVG preferred) and reference it in the post.
+- If a diagram is not appropriate, include a relevant image from the web and set `image` to that URL.
+
 ## Front Matter Guidance
 
 - Keep standard Hugo front matter (`title`, `date`, `description`, `tags`, `categories`, `draft`).

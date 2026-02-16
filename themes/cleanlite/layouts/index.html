@@ -4,28 +4,14 @@
   <p class="lead">{{ .Site.Params.description }}</p>
 </section>
 
-<section class="cards">
-  <div class="card">
-    <h2>Latest posts</h2>
-    <ul class="post-list">
-      {{ range first 8 (where .Site.RegularPages "Section" "posts") }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <span class="meta">{{ .Date.Format "Jan 2, 2006" }}</span>
-      </li>
-      {{ end }}
-    </ul>
-    <a class="more" href="{{ "/posts/" | relURL }}">View all →</a>
-  </div>
-
-  <div class="card">
-    <h2>Browse</h2>
-    <ul class="link-list">
-      <li><a href="{{ "/tags/" | relURL }}">Tags</a></li>
-      <li><a href="{{ "/categories/" | relURL }}">Categories</a></li>
-      <li><a href="{{ "/archives/" | relURL }}">Archive</a></li>
-      <li><a href="{{ "/topics/" | relURL }}">Topics</a></li>
-    </ul>
-  </div>
+<section class="card">
+  <h2>Posts</h2>
+  <ul class="post-list">
+    {{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
 </section>
 {{ end }}

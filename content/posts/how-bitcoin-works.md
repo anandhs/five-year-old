@@ -5,6 +5,7 @@ description: "A simple, practical explanation of how Bitcoin works: blockchain, 
 tags: ["bitcoin", "blockchain", "basics", "technology"]
 categories: ["Learn"]
 draft: false
+image: "/images/heroes/how-bitcoin-works-hero.svg"
 ---
 
 ## What it is

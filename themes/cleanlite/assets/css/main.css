@@ -81,7 +81,23 @@ main { padding: 26px 0 50px; }
 
 .post { max-width: 78ch; }
 .post-head h1 { margin: 0 0 8px; font-size: 2rem; }
+.post-hero { margin: 16px 0 12px; }
+.post-hero img {
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  display: block;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.02);
+}
 .post .content { margin-top: 18px; }
+.post .content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
 .post .content pre, .post .content code { font-family: var(--mono); }
 .post .content pre {
   overflow-x: auto;

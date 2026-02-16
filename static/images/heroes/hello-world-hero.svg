@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Hello World cover</title>
+  <desc id="desc">Introductory post visual.</desc>
+  <rect width="1600" height="700" fill="#123b63"/>
+  <rect x="80" y="90" width="1440" height="520" rx="24" fill="#0b243d" stroke="#4ca6ff" stroke-width="4"/>
+  <text x="140" y="300" fill="#dff1ff" font-size="82" font-family="Verdana, Arial, sans-serif" font-weight="700">Hello World</text>
+  <text x="140" y="385" fill="#8cc8ff" font-size="38" font-family="Verdana, Arial, sans-serif">Start writing with clear structure</text>
+</svg>

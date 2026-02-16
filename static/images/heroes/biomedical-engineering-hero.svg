@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Biomedical engineering cover</title>
+  <desc id="desc">Healthcare and engineering themed cover image.</desc>
+  <rect width="1600" height="700" fill="#11263f"/>
+  <circle cx="360" cy="340" r="170" fill="#52b6ff" opacity="0.35"/>
+  <rect x="300" y="210" width="120" height="260" rx="18" fill="#a5ddff"/>
+  <rect x="230" y="280" width="260" height="120" rx="18" fill="#a5ddff"/>
+  <rect x="700" y="200" width="720" height="300" rx="28" fill="#173b61" stroke="#7fc8ff" stroke-width="4"/>
+  <text x="760" y="330" fill="#e4f4ff" font-size="62" font-family="Verdana, Arial, sans-serif" font-weight="700">Biomedical Engineering</text>
+  <text x="760" y="400" fill="#a4d9ff" font-size="34" font-family="Verdana, Arial, sans-serif">Engineering tools for better healthcare</text>
+</svg>

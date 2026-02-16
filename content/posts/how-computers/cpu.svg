@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">CPU diagram</title>
+  <desc id="desc">Illustration of a CPU chip package.</desc>
+  <rect width="1200" height="520" fill="#19132f"/>
+  <rect x="390" y="110" width="420" height="300" rx="26" fill="#2b2350" stroke="#9bb7ff" stroke-width="6"/>
+  <rect x="470" y="190" width="260" height="140" rx="14" fill="#42397a"/>
+  <text x="540" y="274" fill="#e8ecff" font-size="56" font-family="Verdana, Arial, sans-serif" font-weight="700">CPU</text>
+  <g stroke="#8ea7ff" stroke-width="8">
+    <line x1="390" y1="150" x2="320" y2="150"/>
+    <line x1="390" y1="210" x2="320" y2="210"/>
+    <line x1="390" y1="270" x2="320" y2="270"/>
+    <line x1="390" y1="330" x2="320" y2="330"/>
+    <line x1="810" y1="150" x2="880" y2="150"/>
+    <line x1="810" y1="210" x2="880" y2="210"/>
+    <line x1="810" y1="270" x2="880" y2="270"/>
+    <line x1="810" y1="330" x2="880" y2="330"/>
+  </g>
+</svg>

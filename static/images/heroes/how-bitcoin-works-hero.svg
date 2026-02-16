@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Bitcoin cover</title>
+  <desc id="desc">Digital currency themed cover image.</desc>
+  <rect width="1600" height="700" fill="#2a1d0b"/>
+  <circle cx="1260" cy="350" r="220" fill="#f7931a" opacity="0.9"/>
+  <circle cx="1260" cy="350" r="165" fill="none" stroke="#fff0d6" stroke-width="12"/>
+  <text x="120" y="320" fill="#ffe7c1" font-size="78" font-family="Verdana, Arial, sans-serif" font-weight="700">How Bitcoin Works</text>
+  <text x="120" y="400" fill="#f8be72" font-size="36" font-family="Verdana, Arial, sans-serif">Blockchain, transactions, and mining</text>
+</svg>

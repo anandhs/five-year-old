@@ -2,6 +2,7 @@
 title: "My Favorite Reliability Signals"
 date: 2026-02-13
 draft: false
+image: "/images/heroes/reliability-signals-hero.svg"
 tags: ["observability", "sre", "metrics"]
 categories: ["engineering"]
 series: ["reliability-basics"]
