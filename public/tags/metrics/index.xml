@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metrics on what why and how</title>
-    <link>http://localhost:1313/tags/metrics/</link>
+    <link>https://anandhs.github.io/five-year-old/tags/metrics/</link>
     <description>Recent content in Metrics on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anandhs.github.io/five-year-old/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Favorite Reliability Signals</title>
-      <link>http://localhost:1313/posts/observability/my-favorite-signals/</link>
+      <link>https://anandhs.github.io/five-year-old/posts/observability/my-favorite-signals/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/observability/my-favorite-signals/</guid>
+      <guid>https://anandhs.github.io/five-year-old/posts/observability/my-favorite-signals/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Reliability signals are metrics that help teams understand system health in production.&lt;/p&gt;&#xA;&lt;p&gt;A common and useful set is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;latency&lt;/li&gt;&#xA;&lt;li&gt;traffic&lt;/li&gt;&#xA;&lt;li&gt;errors&lt;/li&gt;&#xA;&lt;li&gt;saturation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;These signals help teams detect and fix incidents faster.&lt;/p&gt;&#xA;&lt;p&gt;They answer practical questions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Is the system slow?&lt;/li&gt;&#xA;&lt;li&gt;Is demand changing?&lt;/li&gt;&#xA;&lt;li&gt;Are requests failing?&lt;/li&gt;&#xA;&lt;li&gt;Are resources near capacity?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Together, they provide a strong baseline for operational decisions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;Teams collect and monitor these metrics over time.&lt;/p&gt;</description>
     </item>
   </channel>

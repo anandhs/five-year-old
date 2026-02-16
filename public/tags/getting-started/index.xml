@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting-Started on what why and how</title>
-    <link>http://localhost:1313/tags/getting-started/</link>
+    <link>https://anandhs.github.io/five-year-old/tags/getting-started/</link>
     <description>Recent content in Getting-Started on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anandhs.github.io/five-year-old/tags/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://anandhs.github.io/five-year-old/posts/hello-world/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://anandhs.github.io/five-year-old/posts/hello-world/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;This is a starter post for the blog.&lt;/p&gt;&#xA;&lt;p&gt;It shows how Markdown content and front matter are structured in a Hugo project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;A starter post is useful because it gives a simple template for future writing.&lt;/p&gt;&#xA;&lt;p&gt;You can copy this format and quickly create consistent articles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;Hugo reads Markdown files in &lt;code&gt;content/posts/&lt;/code&gt; and builds web pages from them.&lt;/p&gt;&#xA;&lt;p&gt;Each post includes front matter fields such as title, date, tags, and categories.&lt;/p&gt;</description>
     </item>
   </channel>

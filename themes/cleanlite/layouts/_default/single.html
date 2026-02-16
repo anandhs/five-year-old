@@ -7,15 +7,15 @@
       {{ with .ReadingTime }} · {{ . }} min read{{ end }}
     </div>
 
-    {{ $hero := .Params.image | default "/images/heroes/default-hero.svg" }}
+    {{ $hero := (.Params.image | default "/images/heroes/default-hero.svg") | strings.TrimPrefix "/" }}
     <figure class="post-hero">
       <img src="{{ $hero | relURL }}" alt="{{ .Title }} cover image" loading="eager" />
     </figure>
 
     <div class="chips">
-      {{ range .Params.series }}<a class="chip" href="{{ (printf "/series/%s/" (urlize .)) | relURL }}">Series: {{ . }}</a>{{ end }}
-      {{ range .Params.categories }}<a class="chip" href="{{ (printf "/categories/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
-      {{ range .Params.tags }}<a class="chip" href="{{ (printf "/tags/%s/" (urlize .)) | relURL }}">#{{ . }}</a>{{ end }}
+      {{ range .Params.series }}<a class="chip" href="{{ (printf "series/%s/" (urlize .)) | relURL }}">Series: {{ . }}</a>{{ end }}
+      {{ range .Params.categories }}<a class="chip" href="{{ (printf "categories/%s/" (urlize .)) | relURL }}">{{ . }}</a>{{ end }}
+      {{ range .Params.tags }}<a class="chip" href="{{ (printf "tags/%s/" (urlize .)) | relURL }}">#{{ . }}</a>{{ end }}
     </div>
   </header>
 

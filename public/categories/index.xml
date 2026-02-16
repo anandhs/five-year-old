@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on what why and how</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://anandhs.github.io/five-year-old/categories/</link>
     <description>Recent content in Categories on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anandhs.github.io/five-year-old/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering</title>
-      <link>http://localhost:1313/categories/engineering/</link>
+      <link>https://anandhs.github.io/five-year-old/categories/engineering/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/engineering/</guid>
+      <guid>https://anandhs.github.io/five-year-old/categories/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Learn</title>
-      <link>http://localhost:1313/categories/learn/</link>
+      <link>https://anandhs.github.io/five-year-old/categories/learn/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/learn/</guid>
+      <guid>https://anandhs.github.io/five-year-old/categories/learn/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/categories/education/</link>
+      <link>https://anandhs.github.io/five-year-old/categories/education/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/education/</guid>
+      <guid>https://anandhs.github.io/five-year-old/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/categories/notes/</link>
+      <link>https://anandhs.github.io/five-year-old/categories/notes/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/notes/</guid>
+      <guid>https://anandhs.github.io/five-year-old/categories/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>http://localhost:1313/categories/science/</link>
+      <link>https://anandhs.github.io/five-year-old/categories/science/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/science/</guid>
+      <guid>https://anandhs.github.io/five-year-old/categories/science/</guid>
       <description></description>
     </item>
   </channel>
