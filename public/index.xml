@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Five Year Old</title>
+    <title>what why and how</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Five Year Old</description>
+    <description>Recent content on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
@@ -56,6 +56,13 @@
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/genetics/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Genetics is the study of how traits are inherited and how biological information is passed from one generation to the next.&lt;/p&gt;&#xA;&lt;p&gt;The main information molecule is DNA, and genes are useful sections of DNA that influence traits and body functions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Genetics helps us understand:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;why family members can share traits&lt;/li&gt;&#xA;&lt;li&gt;why siblings can still be different&lt;/li&gt;&#xA;&lt;li&gt;how some diseases can run in families&lt;/li&gt;&#xA;&lt;li&gt;how personalized medicine can be designed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;It also helps in agriculture, forensics, and disease research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This site explains technical topics in clear, practical language for a wide audience, from middle school learners to adult readers.&lt;/p&gt;&#xA;&lt;p&gt;The goal is simple: make complex ideas easier to understand without oversimplifying them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archive</title>

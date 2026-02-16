@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Five Year Old"
+title = "what why and how"
 theme = "cleanlite"
 [pagination]
   pagerSize = 10
