@@ -66,8 +66,9 @@ git push -u origin main
 
 3. In GitHub: **Settings → Pages**
    - Under **Build and deployment**, set **Source** to **GitHub Actions**
+   - Keep branch/source settings empty (the workflow handles deployment artifacts)
 
-4. Go to the **Actions** tab, you should see a workflow run named **Build and deploy**.
+4. Go to the **Actions** tab, you should see a workflow run named **Deploy Hugo site to GitHub Pages**.
    - When it finishes, your site will be live at:
      - `https://<YOUR_USERNAME>.github.io/<YOUR_REPO>/` (project site)
 
