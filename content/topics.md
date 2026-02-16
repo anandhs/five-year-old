@@ -4,10 +4,10 @@ url: "/topics/"
 ---
 
 ## Categories
-- [Engineering](/categories/engineering/)
-- [Notes](/categories/notes/)
+- [Engineering](../categories/engineering/)
+- [Notes](../categories/notes/)
 
 ## Popular tags
-- [Observability](/tags/observability/)
-- [SRE](/tags/sre/)
-- [Getting Started](/tags/getting-started/)
+- [Observability](../tags/observability/)
+- [SRE](../tags/sre/)
+- [Getting Started](../tags/getting-started/)
