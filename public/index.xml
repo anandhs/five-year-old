@@ -6,42 +6,56 @@
     <description>Recent content on Five Year Old</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Does Bitcoin Work?</title>
+      <link>http://localhost:1313/posts/how-bitcoin-works/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-bitcoin-works/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Bitcoin is a digital money system that works without a central bank.&lt;/p&gt;&#xA;&lt;p&gt;Instead of one company controlling it, a global network of computers follows shared rules to record and verify transactions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;People use Bitcoin for a few main reasons:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;to send value directly over the internet&lt;/li&gt;&#xA;&lt;li&gt;to use a system with a fixed supply (21 million coins)&lt;/li&gt;&#xA;&lt;li&gt;to use money that is not controlled by one country or company&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether it is a good choice depends on your goals, risk tolerance, and local laws.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is Biomedical Engineering?</title>
+      <link>http://localhost:1313/posts/biomedical-engineering/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/biomedical-engineering/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Biomedical engineering is the field that combines engineering and medicine to solve health problems.&lt;/p&gt;&#xA;&lt;p&gt;It applies math, physics, biology, and computing to design tools and systems used in healthcare.&lt;/p&gt;&#xA;&lt;p&gt;Examples include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;medical imaging systems (like MRI and CT support technologies)&lt;/li&gt;&#xA;&lt;li&gt;prosthetic limbs and assistive devices&lt;/li&gt;&#xA;&lt;li&gt;heart monitors and wearable sensors&lt;/li&gt;&#xA;&lt;li&gt;surgical tools and medical software&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Biomedical engineering matters because it helps people live longer, safer, and healthier lives.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to your new blog.&lt;/p&gt;&#xA;&lt;p&gt;This post is written in &lt;strong&gt;Markdown&lt;/strong&gt;, and it includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt; (for labeling)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Categories&lt;/strong&gt; (for grouping)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Series&lt;/strong&gt; (for grouping a set of related posts)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;This is a starter post for the blog.&lt;/p&gt;&#xA;&lt;p&gt;It shows how Markdown content and front matter are structured in a Hugo project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;A starter post is useful because it gives a simple template for future writing.&lt;/p&gt;&#xA;&lt;p&gt;You can copy this format and quickly create consistent articles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;Hugo reads Markdown files in &lt;code&gt;content/posts/&lt;/code&gt; and builds web pages from them.&lt;/p&gt;&#xA;&lt;p&gt;Each post includes front matter fields such as title, date, tags, and categories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Do Computers Work?</title>
       <link>http://localhost:1313/posts/how-computers/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/how-computers/</guid>
-      <description>&lt;p&gt;Computers feel like magic… but they’re actually &lt;strong&gt;super fast rule-followers&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A computer doesn’t “think” like a human.&lt;br&gt;&#xA;It follows instructions &lt;strong&gt;very, very fast&lt;/strong&gt; — using electricity and tiny switches.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-computers-speak-one-simple-language-1s-and-0s&#34;&gt;1) Computers speak ONE simple language: &lt;strong&gt;1s and 0s&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Inside a computer, everything becomes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1 = ON&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;0 = OFF&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;That’s it.&lt;/p&gt;&#xA;&lt;p&gt;Games, YouTube, homework, Roblox, Minecraft — it all becomes huge patterns of &lt;strong&gt;1s and 0s&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;flow.jpg&#34;&#xA;    alt=&#34;Simple diagram showing input -&amp;gt; CPU -&amp;gt; memory -&amp;gt; output&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A computer is basically: Input → Processing → Memory/Storage → Output.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;A computer is an electronic system that takes input, processes data, and produces output.&lt;/p&gt;&#xA;&lt;p&gt;It follows instructions from software and represents data in binary (&lt;code&gt;0&lt;/code&gt; and &lt;code&gt;1&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Computers matter because they help people process information quickly and reliably.&lt;/p&gt;&#xA;&lt;p&gt;They power:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;communication and media&lt;/li&gt;&#xA;&lt;li&gt;education and research&lt;/li&gt;&#xA;&lt;li&gt;business and finance&lt;/li&gt;&#xA;&lt;li&gt;healthcare, transportation, and public services&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;At a high level:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Input devices provide data (keyboard, mouse, sensors, network).&lt;/li&gt;&#xA;&lt;li&gt;The CPU executes instructions.&lt;/li&gt;&#xA;&lt;li&gt;RAM holds active data for fast access.&lt;/li&gt;&#xA;&lt;li&gt;Storage keeps data long term (SSD/HDD).&lt;/li&gt;&#xA;&lt;li&gt;Output devices show results (screen, speakers, files, network).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Inside hardware, transistors switch on and off to perform logic and arithmetic operations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Favorite Reliability Signals</title>
       <link>http://localhost:1313/posts/observability/my-favorite-signals/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/observability/my-favorite-signals/</guid>
-      <description>&lt;p&gt;A simple way to think about reliability signals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Latency&lt;/strong&gt;: how fast?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic&lt;/strong&gt;: how much?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Errors&lt;/strong&gt;: how broken?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Saturation&lt;/strong&gt;: how full?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Reliability signals are metrics that help teams understand system health in production.&lt;/p&gt;&#xA;&lt;p&gt;A common and useful set is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;latency&lt;/li&gt;&#xA;&lt;li&gt;traffic&lt;/li&gt;&#xA;&lt;li&gt;errors&lt;/li&gt;&#xA;&lt;li&gt;saturation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;These signals help teams detect and fix incidents faster.&lt;/p&gt;&#xA;&lt;p&gt;They answer practical questions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Is the system slow?&lt;/li&gt;&#xA;&lt;li&gt;Is demand changing?&lt;/li&gt;&#xA;&lt;li&gt;Are requests failing?&lt;/li&gt;&#xA;&lt;li&gt;Are resources near capacity?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Together, they provide a strong baseline for operational decisions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;Teams collect and monitor these metrics over time.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What Is Calculus? (Explained Like You’re 5)</title>
+      <title>What Is Calculus?</title>
       <link>http://localhost:1313/posts/calculus/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/calculus/</guid>
-      <description>&lt;p&gt;If you hear the word &lt;strong&gt;calculus&lt;/strong&gt;, it probably sounds big. Complicated. Slightly terrifying.&lt;/p&gt;&#xA;&lt;p&gt;Relax.&lt;/p&gt;&#xA;&lt;p&gt;At its heart, calculus is just the math of &lt;strong&gt;change&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And if you’re five years old, you already understand change better than you think.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-world-is-always-changing&#34;&gt;The World Is Always Changing&lt;/h2&gt;&#xA;&lt;p&gt;Think about your day:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A balloon gets bigger when you blow into it 🎈&lt;/li&gt;&#xA;&lt;li&gt;You ride your bike faster and faster 🚲&lt;/li&gt;&#xA;&lt;li&gt;Rain fills up a bucket drop by drop 🌧️&lt;/li&gt;&#xA;&lt;li&gt;You grow taller every year&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nothing stays still.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Calculus is the part of math used to study change and accumulation.&lt;/p&gt;&#xA;&lt;p&gt;It has two core tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;derivatives for rates of change&lt;/li&gt;&#xA;&lt;li&gt;integrals for totals built from many small parts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Calculus helps when things are always changing, such as speed, growth, heat, flow, and cost.&lt;/p&gt;&#xA;&lt;p&gt;It is widely used in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;science and engineering&lt;/li&gt;&#xA;&lt;li&gt;economics and finance&lt;/li&gt;&#xA;&lt;li&gt;medicine and biology&lt;/li&gt;&#xA;&lt;li&gt;computing and machine learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;A derivative answers: &amp;ldquo;How fast is this changing right now?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Is Genetics?</title>
       <link>http://localhost:1313/posts/genetics/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/genetics/</guid>
-      <description>&lt;h1 id=&#34;-what-is-genetics-explained-simply&#34;&gt;🧬 What Is Genetics? (Explained Simply)&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever looked at your family and thought…&lt;/p&gt;&#xA;&lt;p&gt;“Why do I look like my dad?”&lt;br&gt;&#xA;“Why does my sister have curly hair but I don’t?”&lt;br&gt;&#xA;“Why are my eyes brown?”&lt;/p&gt;&#xA;&lt;p&gt;The answer to all of those questions lives inside something tiny — something so small you can’t see it.&lt;/p&gt;&#xA;&lt;p&gt;It’s called &lt;strong&gt;DNA&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And the study of DNA and how traits are passed down from parents to children is called &lt;strong&gt;genetics&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Genetics is the study of how traits are inherited and how biological information is passed from one generation to the next.&lt;/p&gt;&#xA;&lt;p&gt;The main information molecule is DNA, and genes are useful sections of DNA that influence traits and body functions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Genetics helps us understand:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;why family members can share traits&lt;/li&gt;&#xA;&lt;li&gt;why siblings can still be different&lt;/li&gt;&#xA;&lt;li&gt;how some diseases can run in families&lt;/li&gt;&#xA;&lt;li&gt;how personalized medicine can be designed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;It also helps in agriculture, forensics, and disease research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archive</title>

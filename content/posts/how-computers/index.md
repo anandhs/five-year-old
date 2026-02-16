@@ -1,76 +1,49 @@
 ---
 title: "How Do Computers Work?"
 date: 2026-02-13
-description: "A kid-friendly (but accurate) explanation of how computers work — using CPUs, memory, storage, and billions of tiny switches."
-tags: ["computers", "basics", "kid-friendly", "technology"]
+description: "A clear explanation of how computers process information using binary data, CPUs, memory, and storage."
+tags: ["computers", "basics", "technology"]
 categories: ["Learn"]
 draft: false
 ---
 
-Computers feel like magic… but they’re actually **super fast rule-followers**.
+## What it is
 
-A computer doesn’t “think” like a human.  
-It follows instructions **very, very fast** — using electricity and tiny switches.
+A computer is an electronic system that takes input, processes data, and produces output.
 
----
+It follows instructions from software and represents data in binary (`0` and `1`).
 
-## 1) Computers speak ONE simple language: **1s and 0s**
+## Why
 
-Inside a computer, everything becomes:
+Computers matter because they help people process information quickly and reliably.
 
-- **1 = ON**
-- **0 = OFF**
+They power:
 
-That’s it.
+- communication and media
+- education and research
+- business and finance
+- healthcare, transportation, and public services
 
-Games, YouTube, homework, Roblox, Minecraft — it all becomes huge patterns of **1s and 0s**.
+## How does it work
 
-{{< figure src="flow.jpg" alt="Simple diagram showing input -> CPU -> memory -> output" caption="A computer is basically: Input → Processing → Memory/Storage → Output." >}}
+At a high level:
 
----
+- Input devices provide data (keyboard, mouse, sensors, network).
+- The CPU executes instructions.
+- RAM holds active data for fast access.
+- Storage keeps data long term (SSD/HDD).
+- Output devices show results (screen, speakers, files, network).
 
-## 2) The “brain” is the CPU
+Inside hardware, transistors switch on and off to perform logic and arithmetic operations.
 
-The **CPU (Central Processing Unit)** is the part that does the step-by-step work.
+{{< figure src="flow.jpg" alt="Simple diagram showing input -> CPU -> memory -> output" caption="A computer system can be viewed as Input -> Processing -> Memory/Storage -> Output." >}}
 
-Think of it like:
+{{< figure src="cpu.jpg" alt="Close-up photo of a CPU or a motherboard with CPU" caption="The CPU executes instructions and coordinates core operations." >}}
 
-- 🧠 a brain that follows rules
-- 👨‍🍳 a chef following a recipe
-- 🏭 a factory worker doing tiny tasks
+{{< figure src="transistors.jpg" alt="Microchip close-up representing transistors" caption="Transistors are microscopic switches that make digital computation possible." >}}
 
-It’s extremely fast — doing billions of tiny steps per second.
+## More details (and references)
 
-{{< figure src="cpu.jpg" alt="Close-up photo of a CPU or a motherboard with CPU" caption="The CPU is like the computer’s instruction-following engine." >}}
-
----
-
-## 3) The real secret: billions of tiny switches (transistors)
-
-Inside the CPU are **billions** of microscopic switches called **transistors**.
-
-Each transistor can be:
-
-- ON (1)
-- OFF (0)
-
-When you connect a *huge* number of these together, the computer can:
-
-- add numbers
-- compare things
-- move data around
-- follow “if this, then that” decisions
-
-{{< figure src="transistors.jpg" alt="Microchip close-up representing transistors" caption="A CPU contains billions of transistors — tiny ON/OFF switches." >}}
-
----
-
-## 4) RAM is short-term memory (like a desk)
-
-**RAM** is the computer’s short-term memory.
-
-It’s like a desk where you keep the stuff you’re using *right now*.
-
-Examples:
-- the tabs you have open
-- the game level currently loaded
+- [Khan Academy: Intro to computer science](https://www.khanacademy.org/computing/computer-science)
+- [Computer History Museum: What is a computer?](https://www.computerhistory.org/revolution/the-computer/)
+- [HowStuffWorks: How PCs Work](https://computer.howstuffworks.com/pc.htm)

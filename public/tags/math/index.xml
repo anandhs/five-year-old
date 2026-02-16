@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What Is Calculus? (Explained Like You’re 5)</title>
+      <title>What Is Calculus?</title>
       <link>http://localhost:1313/posts/calculus/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/calculus/</guid>
-      <description>&lt;p&gt;If you hear the word &lt;strong&gt;calculus&lt;/strong&gt;, it probably sounds big. Complicated. Slightly terrifying.&lt;/p&gt;&#xA;&lt;p&gt;Relax.&lt;/p&gt;&#xA;&lt;p&gt;At its heart, calculus is just the math of &lt;strong&gt;change&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And if you’re five years old, you already understand change better than you think.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-world-is-always-changing&#34;&gt;The World Is Always Changing&lt;/h2&gt;&#xA;&lt;p&gt;Think about your day:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A balloon gets bigger when you blow into it 🎈&lt;/li&gt;&#xA;&lt;li&gt;You ride your bike faster and faster 🚲&lt;/li&gt;&#xA;&lt;li&gt;Rain fills up a bucket drop by drop 🌧️&lt;/li&gt;&#xA;&lt;li&gt;You grow taller every year&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nothing stays still.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Calculus is the part of math used to study change and accumulation.&lt;/p&gt;&#xA;&lt;p&gt;It has two core tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;derivatives for rates of change&lt;/li&gt;&#xA;&lt;li&gt;integrals for totals built from many small parts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Calculus helps when things are always changing, such as speed, growth, heat, flow, and cost.&lt;/p&gt;&#xA;&lt;p&gt;It is widely used in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;science and engineering&lt;/li&gt;&#xA;&lt;li&gt;economics and finance&lt;/li&gt;&#xA;&lt;li&gt;medicine and biology&lt;/li&gt;&#xA;&lt;li&gt;computing and machine learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;A derivative answers: &amp;ldquo;How fast is this changing right now?&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to your new blog.&lt;/p&gt;&#xA;&lt;p&gt;This post is written in &lt;strong&gt;Markdown&lt;/strong&gt;, and it includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt; (for labeling)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Categories&lt;/strong&gt; (for grouping)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Series&lt;/strong&gt; (for grouping a set of related posts)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;This is a starter post for the blog.&lt;/p&gt;&#xA;&lt;p&gt;It shows how Markdown content and front matter are structured in a Hugo project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;A starter post is useful because it gives a simple template for future writing.&lt;/p&gt;&#xA;&lt;p&gt;You can copy this format and quickly create consistent articles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;Hugo reads Markdown files in &lt;code&gt;content/posts/&lt;/code&gt; and builds web pages from them.&lt;/p&gt;&#xA;&lt;p&gt;Each post includes front matter fields such as title, date, tags, and categories.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

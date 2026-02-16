@@ -24,6 +24,9 @@ hugo server
 
 Open the URL Hugo prints (usually http://localhost:1313).
 
+Important: write and edit posts only in `content/posts/*.md` (or `content/posts/<name>/index.md`).
+The `public/` folder is generated HTML output and should not be edited manually.
+
 ---
 
 ## 2) Create a new post

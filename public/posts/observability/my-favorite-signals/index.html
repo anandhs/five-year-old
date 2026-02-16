@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>My Favorite Reliability Signals · Five Year Old</title>
@@ -40,12 +40,39 @@
   </header>
 
   <div class="content">
-    <p>A simple way to think about reliability signals:</p>
+    <h2 id="what-it-is">What it is</h2>
+<p>Reliability signals are metrics that help teams understand system health in production.</p>
+<p>A common and useful set is:</p>
 <ul>
-<li><strong>Latency</strong>: how fast?</li>
-<li><strong>Traffic</strong>: how much?</li>
-<li><strong>Errors</strong>: how broken?</li>
-<li><strong>Saturation</strong>: how full?</li>
+<li>latency</li>
+<li>traffic</li>
+<li>errors</li>
+<li>saturation</li>
+</ul>
+<h2 id="why">Why</h2>
+<p>These signals help teams detect and fix incidents faster.</p>
+<p>They answer practical questions:</p>
+<ul>
+<li>Is the system slow?</li>
+<li>Is demand changing?</li>
+<li>Are requests failing?</li>
+<li>Are resources near capacity?</li>
+</ul>
+<p>Together, they provide a strong baseline for operational decisions.</p>
+<h2 id="how-does-it-work">How does it work</h2>
+<p>Teams collect and monitor these metrics over time.</p>
+<ul>
+<li>Latency tracks response-time behavior.</li>
+<li>Traffic tracks workload volume.</li>
+<li>Errors track failed operations.</li>
+<li>Saturation tracks resource pressure (CPU, memory, queue depth, connections).</li>
+</ul>
+<p>By correlating all four, teams can separate demand issues from code defects, dependency failures, or capacity limits.</p>
+<h2 id="more-details-and-references">More details (and references)</h2>
+<ul>
+<li><a href="https://sre.google/sre-book/monitoring-distributed-systems/">Google SRE Book: Monitoring Distributed Systems</a></li>
+<li><a href="https://www.brendangregg.com/usemethod.html">The USE Method</a></li>
+<li><a href="https://opentelemetry.io/docs/">OpenTelemetry Documentation</a></li>
 </ul>
 
   </div>

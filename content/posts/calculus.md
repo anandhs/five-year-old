@@ -1,126 +1,42 @@
 ---
-title: "What Is Calculus? (Explained Like You’re 5)"
+title: "What Is Calculus?"
 date: 2026-02-13
-description: "A kid-friendly, blog-style explanation of calculus: change and adding up tiny pieces."
-tags: ["math", "calculus", "kid-friendly", "explained-like-im-5"]
+description: "A clear introduction to calculus as the math of change and accumulation."
+tags: ["math", "calculus", "basics"]
 categories: ["Education"]
 draft: false
 ---
 
-If you hear the word **calculus**, it probably sounds big. Complicated. Slightly terrifying.
+## What it is
 
-Relax.
+Calculus is the part of math used to study change and accumulation.
 
-At its heart, calculus is just the math of **change**.
+It has two core tools:
 
-And if you’re five years old, you already understand change better than you think.
+- derivatives for rates of change
+- integrals for totals built from many small parts
 
-## The World Is Always Changing
+## Why
 
-Think about your day:
+Calculus helps when things are always changing, such as speed, growth, heat, flow, and cost.
 
-- A balloon gets bigger when you blow into it 🎈  
-- You ride your bike faster and faster 🚲  
-- Rain fills up a bucket drop by drop 🌧️  
-- You grow taller every year  
+It is widely used in:
 
-Nothing stays still.
+- science and engineering
+- economics and finance
+- medicine and biology
+- computing and machine learning
 
-Calculus is the tool we use to understand those changes.
+## How does it work
 
-That’s it. That’s the big secret.
+A derivative answers: "How fast is this changing right now?"
 
-## Part 1: How Fast Is Something Changing?
+An integral answers: "What total do I get after adding tiny changes over time or space?"
 
-Imagine you’re riding your bike.
+These two ideas are connected by the Fundamental Theorem of Calculus, which links rates of change and accumulation.
 
-At first, you pedal slowly.  
-Then you go faster.  
-Then you zoom down a hill.
+## More details (and references)
 
-If I ask:
-
-> “How fast were you going on the whole trip?”
-
-That’s easy — that’s average speed.
-
-But calculus asks something more interesting:
-
-> “How fast are you going **right now**?”
-
-Right this second.
-
-That idea — measuring change at one tiny instant — is called a **derivative**.
-
-A derivative tells us:
-
-- How fast something is speeding up  
-- How quickly something is growing  
-- How sharply something is turning  
-
-It’s like zooming in with a super microscope 🔬 to see what’s happening at one tiny moment.
-
-## Part 2: Adding Up Tiny Pieces
-
-Now imagine rain falling into a bucket.
-
-Drip.  
-Drip.  
-Drip.
-
-Each drop is tiny.
-
-But if you wait long enough, the bucket fills up.
-
-Calculus asks:
-
-> “How much water is in the bucket after all those tiny drops?”
-
-To figure that out, you add up all the little pieces.
-
-That idea — adding lots of tiny pieces to make a big total — is called an **integral**.
-
-An integral helps us find:
-
-- Total distance traveled  
-- Total area under a curve  
-- Total energy used  
-- Total water collected  
-
-Tiny pieces → Big picture.
-
-## The Big Idea
-
-Calculus has two superpowers:
-
-1. **Measure change at a single moment** (derivatives)  
-2. **Add up tiny pieces to get a total** (integrals)
-
-That’s it.
-
-Everything else in calculus builds on those two ideas.
-
-## Why It Matters
-
-Calculus isn’t just a school subject.
-
-It helps humans:
-
-- Send rockets to space 🚀  
-- Design roller coasters 🎢  
-- Build video games 🎮  
-- Model how diseases spread 🦠  
-- Predict weather patterns 🌦️  
-- Understand how the heart pumps blood ❤️  
-
-If something moves, grows, flows, speeds up, slows down, or accumulates — calculus is behind it.
-
-## Final Thought
-
-You don’t need to think of calculus as scary math.
-
-Think of it as:
-
-> The language we use to describe a world that never stops changing.
-
-And once you understand that, calculus stops being intimidating — and starts being powerful.
+- [Khan Academy: Differential calculus](https://www.khanacademy.org/math/differential-calculus)
+- [Khan Academy: Integral calculus](https://www.khanacademy.org/math/integral-calculus)
+- [Paul's Online Math Notes: Calculus I](https://tutorial.math.lamar.edu/classes/calci/calci.aspx)
