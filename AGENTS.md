@@ -22,12 +22,11 @@ For every new blog post under `content/posts/`, use this structure in this exact
 
 ## Image Requirement
 
-- Every post must include a top cover image using front matter:
-  - `image: "/images/heroes/<post-slug>-hero.svg"` (or another valid path)
-- If a specific image is not available, use the default:
-  - `image: "/images/heroes/default-hero.svg"`
-- If a concept benefits from visual explanation, create a simple local diagram (SVG preferred) and reference it in the post.
-- If a diagram is not appropriate, include a relevant image from the web and set `image` to that URL.
+- For each new post, create a simple “How diagram” or sketch (SVG preferred) that explains the process in `## How does it work`.
+- Place the diagram in the post content near the “How does it work” section.
+- Use local assets when possible (for example, inside the post bundle or `static/images/diagrams/`).
+- Do not create a hero image by default.
+- If a diagram is not appropriate, include one relevant image from the web in the content instead.
 
 ## Front Matter Guidance
 

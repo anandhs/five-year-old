@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+  <title id="title">Visa/Mastercard payment flow</title>
+  <desc id="desc">Authorization and settlement flow among cardholder, merchant, processor, network, and issuing bank.</desc>
+  <rect width="1600" height="820" fill="#f7fafc"/>
+
+  <text x="70" y="70" fill="#1e293b" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="700">How a Card Payment Works (Visa / Mastercard)</text>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="24" fill="#0f172a">
+    <rect x="70" y="170" width="250" height="120" rx="12" fill="#dbeafe" stroke="#3b82f6"/>
+    <text x="110" y="240">Cardholder</text>
+
+    <rect x="380" y="170" width="250" height="120" rx="12" fill="#dcfce7" stroke="#22c55e"/>
+    <text x="450" y="240">Merchant</text>
+
+    <rect x="690" y="170" width="290" height="120" rx="12" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="725" y="240">Processor / Acquirer</text>
+
+    <rect x="1040" y="170" width="220" height="120" rx="12" fill="#ede9fe" stroke="#8b5cf6"/>
+    <text x="1088" y="240">Network</text>
+    <text x="1098" y="270" font-size="18">Visa / MC</text>
+
+    <rect x="1320" y="170" width="220" height="120" rx="12" fill="#fee2e2" stroke="#ef4444"/>
+    <text x="1356" y="240">Issuing Bank</text>
+  </g>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#334155"/>
+    </marker>
+  </defs>
+
+  <g stroke="#334155" stroke-width="4" marker-end="url(#arr)" fill="none">
+    <line x1="320" y1="230" x2="380" y2="230"/>
+    <line x1="630" y1="230" x2="690" y2="230"/>
+    <line x1="980" y1="230" x2="1040" y2="230"/>
+    <line x1="1260" y1="230" x2="1320" y2="230"/>
+  </g>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="18" fill="#334155">
+    <text x="350" y="205">Pay</text>
+    <text x="655" y="205">Auth request</text>
+    <text x="1000" y="205">Route</text>
+    <text x="1270" y="205">Approve / decline check</text>
+  </g>
+
+  <g stroke="#475569" stroke-width="4" marker-end="url(#arr)" fill="none">
+    <line x1="1320" y1="360" x2="1260" y2="360"/>
+    <line x1="1040" y1="360" x2="980" y2="360"/>
+    <line x1="690" y1="360" x2="630" y2="360"/>
+    <line x1="380" y1="360" x2="320" y2="360"/>
+  </g>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="18" fill="#334155">
+    <text x="1330" y="335">Response</text>
+    <text x="1060" y="335">Network return</text>
+    <text x="710" y="335">To merchant</text>
+    <text x="120" y="390">Authorization result reaches cardholder in seconds</text>
+  </g>
+
+  <rect x="70" y="500" width="1470" height="240" rx="16" fill="#eef2ff" stroke="#6366f1"/>
+  <text x="110" y="560" fill="#1e293b" font-family="Verdana, Arial, sans-serif" font-size="30" font-weight="700">Clearing & Settlement (later, usually in batches)</text>
+  <text x="110" y="615" fill="#334155" font-family="Verdana, Arial, sans-serif" font-size="22">Issuer side transfers funds to acquirer side through network rules and settlement systems.</text>
+  <text x="110" y="655" fill="#334155" font-family="Verdana, Arial, sans-serif" font-size="22">Merchant receives funds minus processing/interchange/network fees.</text>
+</svg>
