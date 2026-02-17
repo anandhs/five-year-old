@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn on what why and how</title>
-    <link>https://anandhs.github.io/five-year-old/categories/learn/</link>
+    <link>http://localhost:1313/categories/learn/</link>
     <description>Recent content in Learn on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anandhs.github.io/five-year-old/categories/learn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Does Bitcoin Work?</title>
-      <link>https://anandhs.github.io/five-year-old/posts/how-bitcoin-works/</link>
+      <link>http://localhost:1313/posts/how-bitcoin-works/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://anandhs.github.io/five-year-old/posts/how-bitcoin-works/</guid>
+      <guid>http://localhost:1313/posts/how-bitcoin-works/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Bitcoin is a digital money system that works without a central bank.&lt;/p&gt;&#xA;&lt;p&gt;Instead of one company controlling it, a global network of computers follows shared rules to record and verify transactions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;People use Bitcoin for a few main reasons:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;to send value directly over the internet&lt;/li&gt;&#xA;&lt;li&gt;to use a system with a fixed supply (21 million coins)&lt;/li&gt;&#xA;&lt;li&gt;to use money that is not controlled by one country or company&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Whether it is a good choice depends on your goals, risk tolerance, and local laws.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>What Is the Stock Market?</title>
+      <link>http://localhost:1313/posts/stock-market/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stock-market/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;The stock market is a system where people buy and sell ownership shares of companies.&lt;/p&gt;&#xA;&lt;p&gt;A share (or stock) represents a small piece of a business. If you own shares, you own part of that company.&lt;/p&gt;&#xA;&lt;p&gt;Stock markets include exchanges such as the New York Stock Exchange (NYSE) and Nasdaq, where buyers and sellers trade through regulated systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;The stock market matters for both companies and individuals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is the World Wide Web?</title>
+      <link>http://localhost:1313/posts/world-wide-web/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/world-wide-web/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;The World Wide Web (WWW) is a system of linked documents and applications you access through a web browser.&lt;/p&gt;&#xA;&lt;p&gt;It runs on top of the internet, but it is not the same thing as the internet.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;strong&gt;internet&lt;/strong&gt; is the global network infrastructure.&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;web&lt;/strong&gt; is a service that uses that infrastructure.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Web content is usually built with HTML, styled with CSS, and made interactive with JavaScript.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>How Do Computers Work?</title>
-      <link>https://anandhs.github.io/five-year-old/posts/how-computers/</link>
+      <link>http://localhost:1313/posts/how-computers/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://anandhs.github.io/five-year-old/posts/how-computers/</guid>
+      <guid>http://localhost:1313/posts/how-computers/</guid>
       <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;A computer is an electronic system that takes input, processes data, and produces output.&lt;/p&gt;&#xA;&lt;p&gt;It follows instructions from software and represents data in binary (&lt;code&gt;0&lt;/code&gt; and &lt;code&gt;1&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Computers matter because they help people process information quickly and reliably.&lt;/p&gt;&#xA;&lt;p&gt;They power:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;communication and media&lt;/li&gt;&#xA;&lt;li&gt;education and research&lt;/li&gt;&#xA;&lt;li&gt;business and finance&lt;/li&gt;&#xA;&lt;li&gt;healthcare, transportation, and public services&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work&lt;/h2&gt;&#xA;&lt;p&gt;At a high level:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Input devices provide data (keyboard, mouse, sensors, network).&lt;/li&gt;&#xA;&lt;li&gt;The CPU executes instructions.&lt;/li&gt;&#xA;&lt;li&gt;RAM holds active data for fast access.&lt;/li&gt;&#xA;&lt;li&gt;Storage keeps data long term (SSD/HDD).&lt;/li&gt;&#xA;&lt;li&gt;Output devices show results (screen, speakers, files, network).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Inside hardware, transistors switch on and off to perform logic and arithmetic operations.&lt;/p&gt;</description>
     </item>
   </channel>

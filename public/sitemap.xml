@@ -2,121 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anandhs.github.io/five-year-old/tags/basics/</loc>
+    <loc>http://localhost:1313/tags/basics/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/biomedical-engineering/</loc>
+    <loc>http://localhost:1313/tags/biomedical-engineering/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/bitcoin/</loc>
+    <loc>http://localhost:1313/tags/bitcoin/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/blockchain/</loc>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/engineering/</loc>
+    <loc>http://localhost:1313/categories/engineering/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/engineering/</loc>
+    <loc>http://localhost:1313/tags/engineering/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/healthcare/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/how-bitcoin-works/</loc>
+    <loc>http://localhost:1313/tags/healthcare/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/learn/</loc>
+    <loc>http://localhost:1313/posts/how-bitcoin-works/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/</loc>
+    <loc>http://localhost:1313/tags/internet/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/</loc>
+    <loc>http://localhost:1313/tags/investing/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/technology/</loc>
+    <loc>http://localhost:1313/categories/learn/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/biomedical-engineering/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/</loc>
+    <loc>http://localhost:1313/tags/stock-market/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/biology/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/biomedical-engineering/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/stock-market/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/world-wide-web/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/world-wide-web/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biology/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/calculus/</loc>
+    <loc>http://localhost:1313/tags/calculus/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/computers/</loc>
+    <loc>http://localhost:1313/tags/computers/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/education/</loc>
+    <loc>http://localhost:1313/categories/education/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/genetics/</loc>
+    <loc>http://localhost:1313/tags/genetics/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/getting-started/</loc>
+    <loc>http://localhost:1313/tags/getting-started/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/how-computers/</loc>
+    <loc>http://localhost:1313/posts/how-computers/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/math/</loc>
+    <loc>http://localhost:1313/tags/math/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/metrics/</loc>
+    <loc>http://localhost:1313/tags/metrics/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/observability/my-favorite-signals/</loc>
+    <loc>http://localhost:1313/posts/observability/my-favorite-signals/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/notes/</loc>
+    <loc>http://localhost:1313/categories/notes/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/observability/</loc>
+    <loc>http://localhost:1313/tags/observability/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/series/reliability-basics/</loc>
+    <loc>http://localhost:1313/series/reliability-basics/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/categories/science/</loc>
+    <loc>http://localhost:1313/categories/science/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/science/</loc>
+    <loc>http://localhost:1313/tags/science/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/tags/sre/</loc>
+    <loc>http://localhost:1313/tags/sre/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/series/start-here/</loc>
+    <loc>http://localhost:1313/series/start-here/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/calculus/</loc>
+    <loc>http://localhost:1313/posts/calculus/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/posts/genetics/</loc>
+    <loc>http://localhost:1313/posts/genetics/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://anandhs.github.io/five-year-old/topics/</loc>
+    <loc>http://localhost:1313/topics/</loc>
   </url>
 </urlset>

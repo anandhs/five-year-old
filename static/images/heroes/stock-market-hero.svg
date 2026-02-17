@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Stock market cover image</title>
+  <desc id="desc">Upward trend line with chart bars representing market activity.</desc>
+  <rect width="1600" height="700" fill="#10243a"/>
+  <g fill="#1f4e79" opacity="0.9">
+    <rect x="180" y="430" width="90" height="170"/>
+    <rect x="320" y="360" width="90" height="240"/>
+    <rect x="460" y="390" width="90" height="210"/>
+    <rect x="600" y="300" width="90" height="300"/>
+    <rect x="740" y="260" width="90" height="340"/>
+    <rect x="880" y="310" width="90" height="290"/>
+    <rect x="1020" y="220" width="90" height="380"/>
+    <rect x="1160" y="170" width="90" height="430"/>
+  </g>
+  <polyline points="180,500 320,440 460,460 600,380 740,340 880,360 1020,290 1160,240 1320,180" fill="none" stroke="#8fd1ff" stroke-width="10"/>
+  <circle cx="1320" cy="180" r="13" fill="#d9f2ff"/>
+  <text x="140" y="120" fill="#e7f3ff" font-size="68" font-family="Verdana, Arial, sans-serif" font-weight="700">What Is the Stock Market?</text>
+</svg>

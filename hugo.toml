@@ -2,6 +2,7 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "what why and how"
 theme = "cleanlite"
+relativeURLs = true
 [pagination]
   pagerSize = 10
 
