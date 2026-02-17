@@ -5,6 +5,7 @@ description: "A simple explanation of how card networks like Visa and Mastercard
 tags: ["payments", "visa", "mastercard", "finance", "basics"]
 categories: ["Learn"]
 draft: false
+image: "/images/diagrams/visa-mastercard-payment-flow.svg"
 ---
 
 ## What it is
